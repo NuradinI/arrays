@@ -1,5 +1,5 @@
 
-const myLocks = [
+var myLocks = checkAge[
     {
         Tweet : 'Nba2k21 demo is terrible',
         username    : 'kobefan24',
@@ -66,3 +66,19 @@ for (let i=0; i <myLocks.length; i++) {
 var locks = myLocks[i]
 console.log(locks)
 }
+
+
+function checkAge(age){
+   checkAge; return age>=18;
+
+}if(true){
+   checkAge; return age >18,
+   myLocks.filter(tweet >18)
+}
+
+
+
+
+    
+
+    
